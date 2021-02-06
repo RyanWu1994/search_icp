@@ -1,0 +1,9 @@
+參考網站: https://www.free-api.com/doc/296
+
+api 事例 : "http://api.uomg.com/api/icp?domain="+domain
+
+
+功能需求 :
+1. 建立 list 清單 (監控 icp 列表)
+2. 規劃 requsetes 間距時間
+3. 
